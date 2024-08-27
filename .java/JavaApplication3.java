@@ -1,4 +1,4 @@
-package javaapplication3;
+
 
 // Make a code that will receive two numbers, and say which one is higher and lower. If both are the same, enter a message.
 
@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class JavaApplication3 {
 
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
 
         Scanner entry = new Scanner(System.in);

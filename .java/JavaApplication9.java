@@ -1,9 +1,10 @@
-package javaapplication9;
+
 
 import java.util.Scanner;
 
 public class JavaApplication9 {
     
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         
         Scanner entry = new Scanner(System.in);

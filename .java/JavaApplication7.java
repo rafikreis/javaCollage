@@ -1,4 +1,4 @@
-package javaapplication7;
+
 
 public class JavaApplication7 {
     

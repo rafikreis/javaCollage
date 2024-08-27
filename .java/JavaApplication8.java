@@ -1,9 +1,9 @@
-package javaaplication8;
 
 import java.util.Scanner;
 
-public class JavaAplication8{
+public class JavaApplication8{
 
+    @SuppressWarnings("resource")
     public static void main(String[] args){
         
         Scanner entry = new Scanner(System.in);

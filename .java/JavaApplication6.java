@@ -1,10 +1,11 @@
-package javaapplication6;
+
 
 import java.util.Scanner;
 
 public class JavaApplication6 {
 
    
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         
         Scanner entry = new Scanner(System.in);
